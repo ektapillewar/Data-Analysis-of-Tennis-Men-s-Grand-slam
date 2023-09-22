@@ -1,0 +1,64 @@
+YEAR,TOURNAMENT,WINNER,RUNNER-UP,WINNER_NATIONALITY,WINNER_ATP_RANKING,RUNNER-UP_ATP_RANKING,WINNER_LEFT_OR_RIGHT_HANDED,TOURNAMENT_SURFACE,WINNER_PRIZE
+2023,australian open,novak djokovic,stefanos tsitsipas,SERBIAN,1,3,right,Plexicushion Prestige,2050000.0
+2022,u.s. open,carlos alcaraz,casper rudd,SPANISH,2,5,right,DecoTurf - outdoors,2600000.0
+2022,french open,rafael nadal,casper rudd,SPANISH,5,8,left,Clay,1870000.0
+2022,australian open,rafael nadal,daniil medvedev,SPANISH,5,2,left,Plexicushion Prestige,4400000.0
+2021,u.s. open,daniil medvedev,novak djokovic,RUSSIAN,2,1,right,DecoTurf - outdoors,2500000.0
+2021,wimbledon,novak djokovic,matteo berrettini,SERBIAN,1,7,right,Grass / Outdoor,1700000.0
+2021,french open,novak djokovic,stefanos tsitsipas,SERBIAN,1,4,right,Clay,1400000.0
+2021,australian open,novak djokovic,daniil medvedev,SERBIAN,1,2,right,Plexicushion Prestige,2875000.0
+2020,french open,rafael nadal,novak djokovic,SPANISH,2,1,left,Clay,1600000.0
+2020,u.s. open,dominic thiem,alexander zverev,AUSTRIAN,3,7,right,DecoTurf - outdoors,2500000.0
+2020,australian open,novak djokovic,dominic thiem,SERBIAN,1,3,right,Plexicushion Prestige,4120000.0
+2019,u.s. open,rafael nadal,daniil medvedev,SPANISH,1,5,left,DecoTurf - outdoors,3850000.0
+2019,wimbledon,novak djokovic,roger federer,SERBIAN,2,3,right,Grass / Outdoor,2350000.0
+2019,french open,rafael nadal,dominic thiem,SPANISH,1,4,left,Clay,2300000.0
+2019,australian open,novak djokovic,rafael nadal,SERBIAN,2,1,right,Plexicushion Prestige,4100000.0
+2018,u.s. open,novak djokovic,juan martin del potro,SERBIAN,1,5,right,DecoTurf - outdoors,3800000.0
+2018,wimbledon,novak djokovic,kevin anderson,SERBIAN,1,6,right,Grass / Outdoor,2250000.0
+2018,french open,rafael nadal,dominic thiem,SPANISH,2,8,left,Clay,2200000.0
+2018,australian open,roger federer,marin ili,SWISS,3,7,right,Plexicushion Prestige,4000000.0
+2017,u.s. open,rafael nadal,kevin anderson,SPANISH,1,14,left,DecoTurf - outdoors,3700000.0
+2017,wimbledon,roger federer,marin ili,SWISS,2,6,right,Grass / Outdoor,2200000.0
+2017,french open,rafael nadal,stan wawrinka,SPANISH,1,9,left,Clay,2100000.0
+2017,australian open,roger federer,rafael nadal,SWISS,2,1,right,Plexicushion Prestige,3700000.0
+2016,u.s. open,stan wawrinka,novak djokovic,SWISS,4,2,right,DecoTurf - outdoors,3500000.0
+2016,wimbledon,andy murray,milos raonic,BRITISH,1,3,right,Grass / Outdoor,2000000.0
+2016,french open,novak djokovic,andy murray,SERBIAN,2,1,right,Clay,2000000.0
+2016,australian open,novak djokovic,andy murray,SERBIAN,2,1,right,Plexicushion Prestige,3400000.0
+2015,u.s. open,novak djokovic,roger federer,SERBIAN,1,3,right,DecoTurf - outdoors,3300000.0
+2015,wimbledon,novak djokovic,roger federer,SERBIAN,1,3,right,Grass / Outdoor,1880000.0
+2015,french open,stan wawrinka,novak djokovic,SWISS,4,1,right,Clay,1800000.0
+2015,australian open,novak djokovic,andy murray,SERBIAN,1,2,right,Plexicushion Prestige,3100000.0
+2014,u.s. open,marin cilic,kei nishikori,CROATIAN,9,5,right,DecoTurf - outdoors,3000000.0
+2014,wimbledon,novak djokovic,roger federer,SERBIAN,1,2,right,Grass / Outdoor,1760000.0
+2014,french open,rafael nadal,novak djokovic,SPANISH,3,1,left,Clay,1650000.0
+2014,australian open,stan wawrinka,rafael nadal,SWISS,4,3,right,Plexicushion Prestige,2650000.0
+2013,u.s. open,rafael nadal,novak djokovic,SPANISH,1,2,left,DecoTurf - outdoors,2600000.0
+2013,wimbledon,andy murray,novak djokovic,BRITISH,4,2,right,Grass / Outdoor,1600000.0
+2013,french open,rafael nadal,david ferrer,SPANISH,1,3,left,Clay,1500000.0
+2013,australian open,novak djokovic,andy murray,SERBIAN,2,4,right,Plexicushion Prestige,2430000.0
+2012,u.s. open,andy murray,novak djokovic,BRITISH,3,1,right,DecoTurf - outdoors,1900000.0
+2012,wimbledon,roger federer,andy murray,SWISS,2,3,right,Grass / Outdoor,1150000.0
+2012,french open,rafael nadal,novak djokovic,SPANISH,4,1,left,Clay,1250000.0
+2012,australian open,novak djokovic,rafael nadal,SERBIAN,1,4,right,Plexicushion Prestige,2300000.0
+2011,u.s. open,novak djokovic,rafael nadal,SERBIAN,1,2,right,DecoTurf - outdoors,1800000.0
+2011,wimbledon,novak djokovic,rafael nadal,SERBIAN,1,2,right,Grass / Outdoor,1100000.0
+2011,french open,rafael nadal,roger federer,SPANISH,2,3,left,Clay,1200000.0
+2011,australian open,novak djokovic,andy murray,SERBIAN,1,4,right,Plexicushion Prestige,2200000.0
+2010,u.s. open,rafael nadal,novak djokovic,SPANISH,1,3,left,DecoTurf - outdoors,1700000.0
+2010,wimbledon,rafael nadal,tomas berdych,SPANISH,1,6,left,Grass / Outdoor,1000000.0
+2010,french open,rafael nadal,robin soderling,SPANISH,1,5,left,Clay,1120000.0
+2010,australian open,roger federer,andy murray,SWISS,2,4,right,Plexicushion Prestige,2100000.0
+2009,u.s. open,juan martin del potro,roger federer,ARGENTINE,5,5,right,DecoTurf - outdoors,1600000.0
+2009,wimbledon,roger federer,andy roddick,SWISS,1,1,right,Grass / Outdoor,850000.0
+2009,french open,roger federer,robin soderling,SWISS,1,1,right,Clay,1060000.0
+2009,australian open,rafael nadal,roger federer,SPANISH,2,2,left,Plexicushion Prestige,2000000.0
+2008,u.s. open,roger federer,andy murray,SWISS,2,4,right,DecoTurf - outdoors,1500000.0
+2008,wimbledon,rafael nadal,roger federer,SPANISH,1,2,left,Grass / Outdoor,750000.0
+2008,french open,rafael nadal,roger federer,SPANISH,1,2,left,Clay,1000000.0
+2008,australian open,novak djokovic,jo-wilfried tsonga,SERBIAN,3,6,right,Plexicushion Prestige,1370000.0
+2007,u.s. open,roger federer,novak djokovic,SWISS,1,3,right,DecoTurf - outdoors,1400000.0
+2007,wimbledon,roger federer,rafael nadal,SWISS,1,2,right,Grass / Outdoor,700000.0
+2007,french open,rafael nadal,roger federer,SPANISH,2,1,left,Clay,1000000.0
+2007,australian open,roger federer,fernando gonzalez,SWISS,1,7,right,Rebound Ace,1281000.0
